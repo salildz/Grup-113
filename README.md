@@ -50,8 +50,9 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 
 <details>
 <summary><h2>SPRINT-1</h2></summary>
-
-- **Daily Scrum** toplantılarımız Discord üzerinden gerçekleştirilmiştir. Toplantılar dışında gerekli durumlarda Whatsapp grubu üzerinden iletişim sağlanmıştır.
+- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+- Herkes kendilerine verilen ilk görevden tam puan almıştır.
+- Daily Scrum toplantılarımız Discord üzerinden gerçekleştirilmiştir. Toplantılar dışında gerekli durumlarda Whatsapp grubu üzerinden iletişim sağlanmıştır.
 
 </details>
 
