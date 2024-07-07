@@ -34,7 +34,7 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 - 4+
 
 <details>
-<summary><h2>Screenshot</h2></summary>
+<summary><h2>Screenshots</h2></summary>
 
 ![saassaas](https://github.com/salildz/Grup-113/assets/116295419/a81def48-59f9-4afb-9fff-0f602d2815ed)
 ![saassaas2](https://github.com/salildz/Grup-113/assets/116295419/306c74cb-b5ae-47e0-b9d7-54932049126c)
@@ -46,7 +46,7 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 <details>
 <summary><h2>SPRINT-1</h2></summary>
 
-- **Daily Scrum** toplantılarımız Discor üzerinden gerçekleştirilmiştir. Toplantılar dışında gerekli durumlarda Whatsapp grubu üzerinden iletişim sağlanmıştır.
+- **Daily Scrum** toplantılarımız Discord üzerinden gerçekleştirilmiştir. Toplantılar dışında gerekli durumlarda Whatsapp grubu üzerinden iletişim sağlanmıştır.
 
 </details>
 
