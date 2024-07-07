@@ -16,18 +16,44 @@
 | Saide Merve Kaplan   | UI Designer | <p align="center"><a href="https://www.linkedin.com/in/merve-saide-kaplan/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href="https://github.com/mervesaide"><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
 
 ## 🎮 Oyun İsmi
-### **`X`**
+### **`SNRAB`**
 
 X, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığı bir oyun. 
 ## ✨ Oyun Özellikleri
 
 - 3D
 - Runner
-- Challenge
-- Educational
-- Strategy
+- Rekabetçi
+- Öğretici
+- Strateji
+- 2-4 Oyunculu
 
 ## ✨ Hedef Kitle
 
-- Competitive People
+- Rekabetçi Topluluk
 - 4+
+
+<details>
+<summary><h2>SPRINT-1</h2></summary>
+
+- **Daily Scrum** toplantılarımız Discor üzerinden gerçekleştirilmiştir. Toplantılar dışında gerekli durumlarda Whatsapp grubu üzerinden iletişim sağlanmıştır.
+  
+
+</details>
+
+## ✨ Sprint Review
+- Takım üyeleri tanıştı ve fikirler tartışıldı.
+- Görev dağılımı yapıldı.
+- Oyunun nasıl olacağı ve sürecin nasıl ilerleyeceği kararları alındı.
+- Harita oluşturulmaya başlandı.
+- Haritada değişikliğe karar verildi.
+- Arenaya karar verildi.
+- Karakter oluşturuldu ve oyuna entegre edildi.
+- Görsele ve parkura karar verildi.
+
+
+## ✨ Sprint Retrospective
+- Takımda dağtılmış olan rollerin 2. Sprint için de aynı olmasına karar verildi.
+- 2. Sprint için daha detaylı toplantılara karar verildi. Ve projeyi daha fazla detaylandırmak üzerine konuşuldu.
+- 2. Sprint için bazı görevler yeniden verildi.
+</details>
