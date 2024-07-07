@@ -33,6 +33,11 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 - Rekabetçi Topluluk
 - 4+
 
+<details>
+<summary><h2>Screenshot</h2></summary>
+  ![WhatsApp Image 2024-07-07 at 10 43 29 PM](https://github.com/salildz/Grup-113/assets/156819899/984d2986-1d02-4a87-9de3-28196122c236)
+  </details>
+
 
 <details>
 <summary><h2>SPRINT-1</h2></summary>
