@@ -1,11 +1,11 @@
 # Grup-113 
 
-# ➕ Google OUA 3.0 Bootcamp - Unity#113
+# ➕ Google OUA 3.0 Bootcamp - Unity Grup 113
 
 <details>
   <summary><h2>Ürün Kimliği</h2></summary>
 
-## 🙋‍♂️ Takım Üyeleri
+## 🤝 Takım Üyeleri
 
 | 👩🏻‍💻 İsim          | 📜 Rol            | 👀 LinkedIn                           | 👀 GitHub                           |
 |---------------|----------------|------------------------------------|----------------------------------|
@@ -19,7 +19,7 @@
 ### **`SNRAB`**
 
 SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığı bir oyun. Point noktalar dışında sistemin yapay zeka entegrasyonlu otomatik dağıtımıyla başlayan ve devam eden rekabetçi ve rekabetin getirdiği tatlı eğlenceye sahip bir oyun.
-## ✨ Oyun Özellikleri
+## ⚙️ Oyun Özellikleri
 
 - 3D
 - Runner
@@ -28,7 +28,7 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 - Strateji
 - 2-4 Oyunculu
 
-## ✨ Hedef Kitle
+## 👥 Hedef Kitle
 
 - Rekabetçi Topluluk
 - 4+
@@ -55,7 +55,7 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 
 </details>
 
-## ✨ Sprint Review
+## ✅ Sprint Review
 - Takım üyeleri tanıştı ve fikirler tartışıldı.
 - Görev dağılımı yapıldı.
 - Oyunun nasıl olacağı ve sürecin nasıl ilerleyeceği kararları alındı.
