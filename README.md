@@ -35,8 +35,12 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 
 <details>
 <summary><h2>Screenshot</h2></summary>
-  ![WhatsApp Image 2024-07-07 at 10 43 29 PM](https://github.com/salildz/Grup-113/assets/156819899/984d2986-1d02-4a87-9de3-28196122c236)
-  </details>
+
+![saassaas](https://github.com/salildz/Grup-113/assets/116295419/a81def48-59f9-4afb-9fff-0f602d2815ed)
+![saassaas2](https://github.com/salildz/Grup-113/assets/116295419/306c74cb-b5ae-47e0-b9d7-54932049126c)
+
+
+</details>
 
 
 <details>
