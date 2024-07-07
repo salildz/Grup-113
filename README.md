@@ -38,6 +38,8 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 
 - **Daily Scrum** toplantılarımız Discor üzerinden gerçekleştirilmiştir. Toplantılar dışında gerekli durumlarda Whatsapp grubu üzerinden iletişim sağlanmıştır.
 
+<details>
+
   ## → Product Backlog'a ulaşmak için <a href="file:///C:/Users/elaci/Downloads/Untitled.pdf" target="_blank">tıkla</a>
 </details>
  
