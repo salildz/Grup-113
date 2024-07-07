@@ -37,8 +37,10 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 <summary><h2>SPRINT-1</h2></summary>
 
 - **Daily Scrum** toplantılarımız Discor üzerinden gerçekleştirilmiştir. Toplantılar dışında gerekli durumlarda Whatsapp grubu üzerinden iletişim sağlanmıştır.
-  
 
+  ## → Product Backlog'a ulaşmak için <a href="file:///C:/Users/elaci/Downloads/Untitled.pdf" target="_blank">tıkla</a>
+</details>
+ 
 </details>
 
 ## ✨ Sprint Review
