@@ -18,7 +18,7 @@
 ## 🎮 Oyun İsmi
 ### **`SNRAB`**
 
-SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığı bir oyun. Point noktalar dışında sistemin yapay zeka entegrasyonlu otomatik dağıtımıyla başlayan ve devam eden rekabetçi ve rekbeetin getirdiği tatlı eğlenceye sahip bir oyun.
+SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığı bir oyun. Point noktalar dışında sistemin yapay zeka entegrasyonlu otomatik dağıtımıyla başlayan ve devam eden rekabetçi ve rekabetin getirdiği tatlı eğlenceye sahip bir oyun.
 ## ✨ Oyun Özellikleri
 
 - 3D
