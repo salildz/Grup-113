@@ -30,6 +30,7 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 
 ## ✨ Hedef Kitle
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVK0gXMyo=/?moveToViewport=-2198,-1386,4710,2241&embedId=496807143132" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 - Rekabetçi Topluluk
 - 4+
 
