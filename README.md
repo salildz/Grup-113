@@ -13,7 +13,7 @@
 | Ramazan Mert Özçelikbaş  | Developer | <p align="center"><a href="https://www.linkedin.com/in/ramazan-mert-ozcelikbas/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href="#"><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
 | Umay Dilara Kuşcu | 3D Artist | <p align="center"><a href="https://www.linkedin.com/in/umay-dilara-ku%C5%9Fcu-20634023b/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href="https://github.com/umaydilara"><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
 | Tuğçe Avcı   | Scrum Master & 3D Artist | <p align="center"><a href="https://www.linkedin.com/in/tugce-ozgur/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href="https://github.com/tugceozguravci"><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
-| Saide Merve Kaplan   | UI Designer | <p align="center"><a href="https://www.linkedin.com/in/merve-saide-kaplan/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href="https://github.com/mervesaide"><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
+| Saide Merve Kaplan   | UI/UX Designer & Developer | <p align="center"><a href="https://www.linkedin.com/in/merve-saide-kaplan/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href="https://github.com/mervesaide"><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
 
 ## 🎮 Oyun İsmi
 ### **`SNRAB`**
@@ -53,7 +53,7 @@ X, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığı bi
 
 
 ## ✨ Sprint Retrospective
-- Takımda dağtılmış olan rollerin 2. Sprint için de aynı olmasına karar verildi.
-- 2. Sprint için daha detaylı toplantılara karar verildi. Ve projeyi daha fazla detaylandırmak üzerine konuşuldu.
-- 2. Sprint için bazı görevler yeniden verildi.
+- Takımda dağıtılmış olan rollerin II. Sprint için de aynı olmasına karar verildi.
+- II. Sprint için daha detaylı toplantılara karar verildi. Ve projeyi daha fazla detaylandırmak üzerine konuşuldu.
+- II. Sprint için bazı görevler yeniden verildi.
 </details>
