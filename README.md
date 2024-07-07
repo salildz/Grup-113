@@ -33,6 +33,9 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 - Rekabetçi Topluluk
 - 4+
 
+  ## → Product Backlog'a ulaşmak için <a href="<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVK0gXMyo=/?moveToViewport=-2198,-1386,4710,2241&embedId=496807143132" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>" target="_blank">tıkla</a>
+</details>
+
 <details>
 <summary><h2>SPRINT-1</h2></summary>
 
