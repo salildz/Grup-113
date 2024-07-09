@@ -43,6 +43,8 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 ![backlog](https://github.com/salildz/Grup-113/assets/116295419/54eca2d2-5f33-4b89-b1ab-a10ea7e15824)
 ![saassaas](https://github.com/salildz/Grup-113/assets/116295419/a81def48-59f9-4afb-9fff-0f602d2815ed)
 ![saassaas2](https://github.com/salildz/Grup-113/assets/116295419/306c74cb-b5ae-47e0-b9d7-54932049126c)
+![Gorevler_1](https://github.com/salildz/Grup-113/assets/156819899/39db7c38-c44e-4d05-b5b5-ea085bc0bfe2)
+
 
 
 </details>
