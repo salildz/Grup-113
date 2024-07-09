@@ -49,7 +49,7 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 
 
 <details>
-<summary><h2>SPRINT-1</h2></summary>
+<summary><h2> SPRINT-1</h2></summary>
 
 - Bu Sprint içinde tamamlanması **tahmin edilen puan**: 100 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık Backlog bulunmaktadır. 3 Sprint şeklinde bölündüğünde I. Sprint için 100 ile başlaması gerektiğine karar verildi.
