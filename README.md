@@ -1,6 +1,6 @@
 # Grup-113 
 
-# ➕ Google OUA 3.0 Bootcamp - Unity Grup 113
+# 🖥️ Google OUA 3.0 Bootcamp - Unity Grup 113
 
 <details>
   <summary><h2>Ürün Kimliği</h2></summary>
@@ -33,12 +33,12 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 - Rekabetçi Topluluk
 - 4+
 
-## Product Backlog URL
+## 📋 Product Backlog URL
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVK0gXMyo=/?share_link_id=6500297029)
 
 <details>
-<summary><h2>Screenshots</h2></summary>
+<summary><h2>📸 Screenshots</h2></summary>
 
 ![backlog](https://github.com/salildz/Grup-113/assets/116295419/54eca2d2-5f33-4b89-b1ab-a10ea7e15824)
 ![saassaas](https://github.com/salildz/Grup-113/assets/116295419/a81def48-59f9-4afb-9fff-0f602d2815ed)
