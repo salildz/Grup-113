@@ -50,9 +50,13 @@ SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığ�
 
 <details>
 <summary><h2>SPRINT-1</h2></summary>
-- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
-- Herkes kendilerine verilen ilk görevden tam puan almıştır.
-- Daily Scrum toplantılarımız Discord üzerinden gerçekleştirilmiştir. Toplantılar dışında gerekli durumlarda Whatsapp grubu üzerinden iletişim sağlanmıştır.
+
+- Bu Sprint içinde tamamlanması **tahmin edilen puan**: 100 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık Backlog bulunmaktadır. 3 Sprint şeklinde bölündüğünde I. Sprint için 100 ile başlaması gerektiğine karar verildi.
+- **Tamamlanan puan**: 80 oldu.
+- **Backlog düzeni**: Backlog ilk biriken ve yapılacak şekilde listelenmiştir. Sprint başında belirlenenleri kapsayacak şekilde hazırlanmıştır. Yapım aşamasında olanlar diye devam edip sonunda da tamamlanmış olanlar yer almaktadır. 
+- Herkes kendilerine verilen **ilk görevden** tam puan almıştır.
+- **Daily Scrum toplantılarımız** Discord üzerinden gerçekleştirilmiştir. Toplantılar dışında gerekli durumlarda Whatsapp grubu üzerinden iletişim sağlanmıştır.
 
 </details>
 
