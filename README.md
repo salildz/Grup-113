@@ -16,9 +16,9 @@
 | Saide Merve Kaplan   | UI/UX Designer & Developer | <p align="center"><a href="https://www.linkedin.com/in/merve-saide-kaplan/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href="https://github.com/mervesaide"><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
 
 ## 🎮 Oyun İsmi
-### **`SNRAB`**
+### **`SlyQuest`**
 
-SNRAB, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığı bir oyun. Point noktalar dışında sistemin yapay zeka entegrasyonlu otomatik dağıtımıyla başlayan ve devam eden rekabetçi ve rekabetin getirdiği tatlı eğlenceye sahip bir oyun.
+SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantığı bir oyun. Point noktalar dışında sistemin yapay zeka entegrasyonlu otomatik dağıtımıyla başlayan ve devam eden rekabetçi ve rekabetin getirdiği tatlı eğlenceye sahip bir oyun.
 ## ⚙️ Oyun Özellikleri
 
 - 3D
