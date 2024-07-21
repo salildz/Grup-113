@@ -101,7 +101,8 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
 ![saassaas2](https://github.com/user-attachments/assets/b451f496-2ffc-4791-8f08-d658c646b42c)
 
 </details>
-  
+
+<details>  
 ## ✅ Sprint Review
 - İsim değişikliği yapıldı.
 - İsim değişikliğine bağlı UI değişikliğine karar verildi.
