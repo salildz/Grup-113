@@ -90,3 +90,30 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
   - **Backlog düzeni**: Backlog ilk biriken ve yapılacak şekilde listelenmiştir. Sprint başında belirlenenleri kapsayacak şekilde hazırlanmıştır. Yapım aşamasında olanlar diye devam edip sonunda da tamamlanmış olanlar yer almaktadır.
   - **Verilen görevler için puanlama**: Herkes tam puan aldı.
   - **Daily Scrum toplantılarımız** Discord üzerinden gerçekleştirilmiş. Toplantılarımızın dışında WhatsApp grubundan iletişime geçtik.
+
+
+</details>
+
+<details>
+<summary><h2>📸 Screenshots</h2></summary>
+![saassaas](https://github.com/user-attachments/assets/e9dee7fe-dc86-41ed-9815-97a9bf3640ba)
+![saassaas2](https://github.com/user-attachments/assets/57cca995-b10b-4e0a-a65f-6abe4493b6fe)
+
+</details>
+  
+## ✅ Sprint Review
+- İsim değişikliği yapıldı.
+- İsim değişikliğine bağlı UI değişikliğine karar verildi.
+- Arenalar tamamlandı.
+- Multiplayer düzeni yapıldı.
+- Point noktalar kesinleştirildi.
+- Harita tamamlandı.
+- Oyunun detayları belirlendi.
+
+## ✨ Sprint Retrospective
+- Takımda dağıtılmış olan rollerin III. Sprint için de aynı olmasına karar verildi.
+- III. Sprint için ön toplantı yapıldı. Ve projenin işleyişi hakkında konuşuldu.
+- III. Sprint için son görevler detaylı şekilde dağıtıldı.
+- Dağıtılan görevler dışında da yardımlaşmak üzerine ayrıca toplantı saatlerine karar verildi.
+</details>
+  
