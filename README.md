@@ -91,9 +91,7 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
   - **Verilen görevler için puanlama**: Herkes tam puan aldı.
   - **Daily Scrum toplantılarımız** Discord üzerinden gerçekleştirilmiş. Toplantılarımızın dışında WhatsApp grubundan iletişime geçtik.
 
-
 </details>
-
 
 ## ✅ Sprint Review
 - İsim değişikliği yapıldı.
@@ -109,7 +107,6 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
 - III. Sprint için ön toplantı yapıldı. Ve projenin işleyişi hakkında konuşuldu.
 - III. Sprint için son görevler detaylı şekilde dağıtıldı.
 - Dağıtılan görevler dışında da yardımlaşmak üzerine ayrıca toplantı saatlerine karar verildi.
-
 </details>
 
  <details>
