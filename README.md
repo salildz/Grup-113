@@ -79,3 +79,14 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
 - II. Sprint için daha detaylı toplantılara karar verildi. Ve projeyi daha fazla detaylandırmak üzerine konuşuldu.
 - II. Sprint için bazı görevler yeniden verildi.
 </details>
+
+<details>
+  <summary><h2>📌 Sprint II</h2></summary>
+  
+  - **Sprint Notları**: Backlog üzerinde gösterilenler ekran görüntüsü olarak burada sunulmuştur. Ulaşılan sonucu bu Sprint içerisinde **screenshots** kısmında görebilirsiniz.
+  - **Sprint içinde tamamlanması gereken puan**: 100 Puan
+  - **Puan tamamlama mantığı**: Bir önceki Sprint için belirttiğimiz şekilde devam etmektedir. II. Sprint için de 100 puan tamamlanması gerektiğine karar verildi.
+  - **Tamamlanan puan**: 100 oldu.
+  - **Backlog düzeni**: Backlog ilk biriken ve yapılacak şekilde listelenmiştir. Sprint başında belirlenenleri kapsayacak şekilde hazırlanmıştır. Yapım aşamasında olanlar diye devam edip sonunda da tamamlanmış olanlar yer almaktadır.
+  - **Verilen görevler için puanlama**: Herkes tam puan aldı.
+  - **Daily Scrum toplantılarımız** Discord üzerinden gerçekleştirilmiş. Toplantılarımızın dışında WhatsApp grubundan iletişime geçtik.
