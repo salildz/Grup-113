@@ -102,7 +102,7 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
 
 </details>
 
-</details>  
+<details>
 
 ## ✅ Sprint Review
 - İsim değişikliği yapıldı.
@@ -118,5 +118,6 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
 - III. Sprint için ön toplantı yapıldı. Ve projenin işleyişi hakkında konuşuldu.
 - III. Sprint için son görevler detaylı şekilde dağıtıldı.
 - Dağıtılan görevler dışında da yardımlaşmak üzerine ayrıca toplantı saatlerine karar verildi.
+
 </details>
   
