@@ -158,12 +158,27 @@ namespace StarterAssets
         }
         public override void OnNetworkSpawn()
         {
-            base.OnNetworkSpawn();
+            //base.OnNetworkSpawn();
             if(IsClient && IsOwner)
             {
                 _playerInput = GetComponent<PlayerInput>();
                 _playerInput.enabled = true;
                 _cinemachineVirtualCamera.Follow = transform.Find("PlayerCameraRoot");
+                transform.position = new Vector3(741, 0, 698);
+            }
+            if (IsHost && IsOwner)
+            {
+                _playerInput = GetComponent<PlayerInput>();
+                _playerInput.enabled = true;
+                _cinemachineVirtualCamera.Follow = transform.Find("PlayerCameraRoot");
+                transform.position = new Vector3(741, 0, 698);
+            }
+            if (IsServer && IsOwner)
+            {
+                _playerInput = GetComponent<PlayerInput>();
+                _playerInput.enabled = true;
+                _cinemachineVirtualCamera.Follow = transform.Find("PlayerCameraRoot");
+                transform.position = new Vector3(741, 0, 698);
             }
         }
             
