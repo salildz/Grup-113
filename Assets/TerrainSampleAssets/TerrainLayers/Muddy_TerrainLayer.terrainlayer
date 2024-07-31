@@ -8,8 +8,8 @@ TerrainLayer:
   m_PrefabAsset: {fileID: 0}
   m_Name: Muddy_TerrainLayer
   m_DiffuseTexture: {fileID: 2800000, guid: 5f61aa5f60d405a4b9f08becbe25d4c2, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: b32e158db5f02e348a9a119c4f1a8b6e, type: 3}
-  m_MaskMapTexture: {fileID: 2800000, guid: 460c348f9a47c9e47837ec9ea2855c67, type: 3}
+  m_NormalMapTexture: {fileID: 0}
+  m_MaskMapTexture: {fileID: 0}
   m_TileSize: {x: 50, y: 50}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
