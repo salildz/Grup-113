@@ -153,6 +153,10 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
   
 ![saassaas](https://github.com/user-attachments/assets/1983331a-9c16-48b8-9293-9cf6ee621ea6)
 ![saassaas2](https://github.com/user-attachments/assets/9f7d8035-bd40-44a8-9896-5d7a0f44f876)
+![saassaas3](https://github.com/user-attachments/assets/0682f34a-07e3-4d5f-8b10-32d7c58a20bb)
+![saassaas4](https://github.com/user-attachments/assets/01289974-9b56-43d5-b1a6-23534440507d)
+![saassaas5](https://github.com/user-attachments/assets/11c56a1c-4802-4000-8004-275991b436eb)
+![saassaas6](https://github.com/user-attachments/assets/1ac96340-155e-422a-aaac-166a4e3183bd)
 ![backlog](https://github.com/user-attachments/assets/a784e924-dfd0-4375-bc75-03e4acc879e4)
 ![Gorevler_1](https://github.com/user-attachments/assets/972ee561-45df-412b-905c-4e1feeb1ea14)
 
