@@ -143,6 +143,11 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
 
 </details>
 
+## 📋 Product Backlog URL
+
+[Miro Backlog Board](https://miro.com/app/board/uXjVK0gXMyo=/?share_link_id=6500297029](https://miro.com/app/board/uXjVK0gXMyo=/)
+
+
 <details>
 <summary><h2>📸 Screenshots</h2></summary>
   
