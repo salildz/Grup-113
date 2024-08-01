@@ -130,4 +130,16 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
 - Dağıtılan görevler dışında da yardımlaşmak üzerine ayrıca toplantı saatlerine karar verildi.
 </details>
 
+<details>
+  <summary><h2>📌 Sprint III</h2></summary>
+  
+  - **Sprint Notları**: Backlog üzerinde gösterilenler ekran görüntüsü olarak burada sunulmuştur. Ulaşılan sonucu bu Sprint içerisinde **screenshots** kısmında görebilirsiniz.
+  - **Sprint içinde tamamlanması gereken puan**: 100 Puan
+  - **Puan tamamlama mantığı**: Bir önceki Sprint sonlarında da belirttiğimiz şekilde devam etmektedir. III. Sprint için de 100 puan tamamlanması gerektiğine karar verildi.
+  - **Tamamlanan puan**: 100 oldu.
+  - **Backlog düzeni**: Backlog tamamlananlar kısmından oluşmaktadır. Sprint başında belirlemiş olduğumuz aşamaları kapsayacak şekilde hazırlanmıştır. Proje başarıyla yapım aşamasını tamamladığı için yarım kalan kısım bulunmamaktadır.
+  - **Verilen görevler için puanlama**: Herkes tam puan aldı.
+  - **Daily Scrum toplantılarımız** Discord üzerinden gerçekleştirilmiş. Toplantılarımızın dışında WhatsApp grubundan iletişime geçtik.
+
+</details>
 
