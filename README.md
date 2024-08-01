@@ -143,3 +143,20 @@ SlyQuest, 3 boyutlu multiplayer / Co-Op yapay zeka entegrasyonlu scrubble mantı
 
 </details>
 
+</details> 
+
+## ✅ Sprint Review
+- Multiplayer ortak WIFI üzerinden tamamen çalışacak konuma getirildi.
+- Karakter animasyonları tamamlandı.
+- Arenalar detaylandırıldı.
+- UI tasarımlar tamamlandı.
+- Point noktalar klasörleştirildi ve oyuna entegre edildi.
+- Haritanın görünmez sınırları yazıldı.
+- Oyun sorunsuz çalışır onayını aldı.
+
+## ✨ Sprint Retrospective
+- Takımda dağıtılmış olan roller aynı şekilde devam etti. Proje teslim edildikten sonra geliştirici eleştrilerle görüşme yapılmasına karar verildi.
+- Teslimat öncesi son toplantı gerçekleştirildi. Ve projenin ilerleyen dönemleri için de toplantı planı yapıldı.
+- Geri bildirimler için ayrıca bir toplanmtı yapılması gerektiği konuşuldu.
+- Oyunu oynayıp, keyifle deneme ve ileriki zamanlar için geliştirmeye devam etme planı yapıldı.
+</details>
